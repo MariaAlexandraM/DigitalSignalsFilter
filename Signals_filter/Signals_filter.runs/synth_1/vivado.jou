@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Tue Jan 16 14:31:19 2024
+# Process ID: 21536
+# Current directory: D:/Maria/facultate/SSC/proiect/Signals_filter/Signals_filter.runs/synth_1
+# Command line: vivado.exe -log display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source display.tcl
+# Log file: D:/Maria/facultate/SSC/proiect/Signals_filter/Signals_filter.runs/synth_1/display.vds
+# Journal file: D:/Maria/facultate/SSC/proiect/Signals_filter/Signals_filter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source display.tcl -notrace
